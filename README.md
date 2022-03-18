@@ -1,3 +1,3 @@
 ### Estudos-Java-Basico
 
-Repositório para adicionar conteúdos de java básico e resolução de exercícios para aperfeiçoar a lógica
+Repositório para adicionar resolução de exercícios da plataforma https://www.hackerrank.com/
