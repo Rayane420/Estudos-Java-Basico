@@ -1,6 +1,6 @@
 ### Documentando APIs com Swagger(OpenApi Specification)
 
-O que é o Swagger?
+#### O que é o Swagger?
 O Swagger é um framework com um conjunto de ferramentas para auxiliar desenvolvedores não só a documentar suas aplicações mas também para fazer a parte de modelagem ou gerar código para desenvolvimento de APIs, aqui nesse passo a passo será descrito apenas a parte da documentação e como pode ser feita.
 
 #### Porque usar? 
